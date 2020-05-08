@@ -4,6 +4,6 @@ public class CreateChannel {
 
     public static void main(String[] args) {
 
-        System.out.println("Creating channel function is work");
+        System.out.println("Creating channel function  work");
     }
 }
